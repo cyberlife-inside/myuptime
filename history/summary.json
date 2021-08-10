@@ -4,18 +4,20 @@
     "url": "https://www.wiscale.fr",
     "icon": "https://favicons.githubusercontent.com/www.wiscale.fr",
     "slug": "wiscale-france",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 918,
-    "timeDay": 848,
-    "timeWeek": 904,
-    "timeMonth": 918,
-    "timeYear": 918,
-    "dailyMinutesDown": {}
+    "time": 899,
+    "timeDay": 628,
+    "timeWeek": 842,
+    "timeMonth": 899,
+    "timeYear": 899,
+    "dailyMinutesDown": {
+      "2021-08-10": 0
+    }
   },
   {
     "name": "Blog Kifs",
