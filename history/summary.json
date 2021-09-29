@@ -22,7 +22,7 @@
     "url": "https://leskifsdejuju.blog",
     "icon": "https://favicons.githubusercontent.com/leskifsdejuju.blog",
     "slug": "blog-kifs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1402,
     "timeMonth": 1316,
     "timeYear": 1313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   }
 ]
