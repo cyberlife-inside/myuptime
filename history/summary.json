@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/neural-reader.com",
     "slug": "neural-reader-saas",
     "status": "down",
-    "uptime": "53.92%",
+    "uptime": "53.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "53.92%",
+    "uptimeYear": "53.48%",
     "time": 344,
     "timeDay": 102,
     "timeWeek": 126,
     "timeMonth": 122,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2022-03-12": 24,
+      "2022-03-12": 889,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
@@ -101,9 +101,9 @@
     "url": "https://ctrpro.co",
     "icon": "https://favicons.githubusercontent.com/ctrpro.co",
     "slug": "ctr-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,6 +112,8 @@
     "timeWeek": 1674,
     "timeMonth": 1702,
     "timeYear": 1705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-12": 0
+    }
   }
 ]
