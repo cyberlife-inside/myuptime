@@ -29,7 +29,7 @@
     "url": "https://cyberlife.blog",
     "icon": "https://favicons.githubusercontent.com/cyberlife.blog",
     "slug": "blog-cyberlife",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "97.75%",
     "uptimeWeek": "99.68%",
@@ -61,7 +61,7 @@
     "timeMonth": 113,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2022-04-20": 534,
+      "2022-04-20": 540,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
