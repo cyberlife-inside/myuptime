@@ -63,7 +63,7 @@
     "timeMonth": 112,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-06-01": 1137,
+      "2022-06-01": 1148,
       "2022-05-31": 1440,
       "2022-05-30": 1440,
       "2022-05-29": 1440,
@@ -187,19 +187,19 @@
     "url": "https://ctrpro.co",
     "icon": "https://favicons.githubusercontent.com/ctrpro.co",
     "slug": "ctr-pro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1723,
-    "timeDay": 1057,
-    "timeWeek": 2042,
-    "timeMonth": 1802,
-    "timeYear": 1723,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1725,
+    "timeDay": 1351,
+    "timeWeek": 2030,
+    "timeMonth": 1806,
+    "timeYear": 1725,
     "dailyMinutesDown": {
-      "2022-06-01": 0
+      "2022-06-01": 12
     }
   }
 ]
