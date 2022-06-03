@@ -31,9 +31,9 @@
     "url": "https://cyberlife.blog",
     "icon": "https://favicons.githubusercontent.com/cyberlife.blog",
     "slug": "blog-cyberlife",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -43,6 +43,7 @@
     "timeMonth": 1234,
     "timeYear": 1191,
     "dailyMinutesDown": {
+      "2022-06-03": 0,
       "2022-04-20": 76
     }
   },
@@ -63,7 +64,7 @@
     "timeMonth": 112,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-06-03": 27,
+      "2022-06-03": 29,
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
