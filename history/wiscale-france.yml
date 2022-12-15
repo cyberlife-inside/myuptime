@@ -1,7 +1,7 @@
 url: https://www.wiscale.fr
-status: up
-code: 200
-responseTime: 838
-lastUpdated: 2022-12-15T13:55:52.775Z
+status: down
+code: 502
+responseTime: 503
+lastUpdated: 2022-12-15T14:30:54.554Z
 startTime: Thu Jul 15 2021 16:08:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
