@@ -11,10 +11,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
     "time": 1140,
-    "timeDay": 1080,
-    "timeWeek": 866,
+    "timeDay": 694,
+    "timeWeek": 812,
     "timeMonth": 1375,
-    "timeYear": 1158,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2023-05-29": 38,
       "2023-05-15": 25,
@@ -23,8 +23,7 @@
       "2023-03-03": 51,
       "2022-12-15": 24,
       "2022-11-02": 24,
-      "2022-09-03": 48,
-      "2022-06-10": 25
+      "2022-09-03": 48
     }
   },
   {
@@ -38,10 +37,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 986,
-    "timeDay": 963,
-    "timeWeek": 626,
-    "timeMonth": 549,
+    "time": 985,
+    "timeDay": 726,
+    "timeWeek": 620,
+    "timeMonth": 565,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2023-03-16": 19,
@@ -59,18 +58,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
     "status": "down",
-    "uptime": "7.59%",
+    "uptime": "7.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 111,
-    "timeDay": 101,
-    "timeWeek": 94,
+    "time": 110,
+    "timeDay": 71,
+    "timeWeek": 87,
     "timeMonth": 122,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2023-06-09": 36,
+      "2023-06-10": 32,
+      "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -433,8 +433,7 @@
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
-      "2022-06-11": 1440,
-      "2022-06-10": 1440
+      "2022-06-11": 1440
     }
   },
   {
@@ -448,11 +447,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.70%",
-    "time": 1448,
-    "timeDay": 1400,
-    "timeWeek": 1357,
-    "timeMonth": 1329,
-    "timeYear": 1363,
+    "time": 1447,
+    "timeDay": 1312,
+    "timeWeek": 1363,
+    "timeMonth": 1332,
+    "timeYear": 1362,
     "dailyMinutesDown": {
       "2022-11-15": 312,
       "2022-11-14": 1440,
