@@ -4,9 +4,9 @@
     "url": "https://www.wiscale.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.wiscale.fr.ico",
     "slug": "wiscale-france",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 1738,
     "timeYear": 1224,
     "dailyMinutesDown": {
+      "2023-09-14": 0,
       "2023-07-03": 23,
       "2023-05-29": 38,
       "2023-05-15": 25,
@@ -66,7 +67,7 @@
     "timeMonth": 86,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2023-09-14": 2,
+      "2023-09-14": 680,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
