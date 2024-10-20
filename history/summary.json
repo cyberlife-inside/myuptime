@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1026,
-    "timeDay": 583,
-    "timeWeek": 709,
-    "timeMonth": 717,
-    "timeYear": 898,
+    "timeDay": 566,
+    "timeWeek": 641,
+    "timeMonth": 704,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2024-05-21": 52,
       "2023-12-08": 43,
@@ -35,9 +35,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.18%",
     "time": 717,
-    "timeDay": 383,
-    "timeWeek": 740,
-    "timeMonth": 679,
+    "timeDay": 572,
+    "timeWeek": 727,
+    "timeMonth": 674,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2024-09-21": 39,
@@ -60,18 +60,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
     "status": "down",
-    "uptime": "3.91%",
+    "uptime": "3.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 95,
-    "timeDay": 137,
-    "timeWeek": 112,
-    "timeMonth": 109,
+    "timeDay": 67,
+    "timeWeek": 109,
+    "timeMonth": 108,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-10-19": 2,
+      "2024-10-20": 2,
+      "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
@@ -434,8 +435,7 @@
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
-      "2023-10-22": 1440,
-      "2023-10-21": 1440
+      "2023-10-22": 1440
     }
   },
   {
@@ -444,16 +444,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "up",
-    "uptime": "62.99%",
+    "uptime": "63.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "9.23%",
+    "uptimeYear": "9.51%",
     "time": 858,
-    "timeDay": 849,
-    "timeWeek": 2201,
-    "timeMonth": 1742,
-    "timeYear": 498,
+    "timeDay": 1310,
+    "timeWeek": 2225,
+    "timeMonth": 1755,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2024-10-02": 28,
       "2024-09-17": 214,
@@ -787,8 +787,7 @@
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
-      "2023-10-22": 1440,
-      "2023-10-21": 1440
+      "2023-10-22": 1440
     }
   }
 ]
