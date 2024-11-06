@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1020,
-    "timeDay": 479,
-    "timeWeek": 518,
-    "timeMonth": 642,
+    "timeDay": 906,
+    "timeWeek": 554,
+    "timeMonth": 654,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2024-05-21": 52,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 720,
-    "timeDay": 617,
-    "timeWeek": 626,
-    "timeMonth": 697,
-    "timeYear": 664,
+    "timeDay": 515,
+    "timeWeek": 562,
+    "timeMonth": 696,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2024-09-21": 39,
       "2024-09-09": 19,
@@ -66,12 +66,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 96,
-    "timeDay": 121,
-    "timeWeek": 119,
+    "timeDay": 85,
+    "timeWeek": 117,
     "timeMonth": 111,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2024-11-05": 2,
+      "2024-11-06": 2,
+      "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -434,8 +435,7 @@
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
-      "2023-11-08": 1440,
-      "2023-11-07": 1440
+      "2023-11-08": 1440
     }
   },
   {
@@ -444,16 +444,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "up",
-    "uptime": "63.61%",
+    "uptime": "63.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.89%",
-    "time": 856,
-    "timeDay": 631,
-    "timeWeek": 1498,
-    "timeMonth": 1674,
-    "timeYear": 555,
+    "uptimeYear": "14.16%",
+    "time": 855,
+    "timeDay": 1020,
+    "timeWeek": 857,
+    "timeMonth": 1679,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2024-10-02": 28,
       "2024-09-17": 214,
@@ -770,8 +770,7 @@
       "2023-11-11": 1058,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
-      "2023-11-08": 1440,
-      "2023-11-07": 1440
+      "2023-11-08": 1440
     }
   }
 ]
