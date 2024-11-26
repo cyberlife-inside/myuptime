@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1011,
-    "timeDay": 660,
-    "timeWeek": 622,
-    "timeMonth": 636,
+    "time": 1010,
+    "timeDay": 522,
+    "timeWeek": 608,
+    "timeMonth": 627,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2024-05-21": 52,
       "2023-12-08": 43,
-      "2023-12-03": 25,
-      "2023-11-27": 41
+      "2023-12-03": 25
     }
   },
   {
@@ -34,9 +33,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.18%",
     "time": 696,
-    "timeDay": 823,
-    "timeWeek": 637,
-    "timeMonth": 669,
+    "timeDay": 826,
+    "timeWeek": 658,
+    "timeMonth": 658,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2024-11-25": 28,
@@ -65,13 +64,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 96,
-    "timeDay": 123,
-    "timeWeek": 99,
-    "timeMonth": 105,
-    "timeYear": 99,
+    "time": 97,
+    "timeDay": 133,
+    "timeWeek": 108,
+    "timeMonth": 106,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2024-11-25": 792,
+      "2024-11-26": 2,
+      "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -434,8 +434,7 @@
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
-      "2023-11-28": 1440,
-      "2023-11-27": 1440
+      "2023-11-28": 1440
     }
   },
   {
@@ -444,16 +443,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "up",
-    "uptime": "64.40%",
+    "uptime": "64.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.20%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "18.72%",
-    "time": 1233,
-    "timeDay": 680,
-    "timeWeek": 4334,
-    "timeMonth": 2100,
-    "timeYear": 1857,
+    "uptimeYear": "18.84%",
+    "time": 1239,
+    "timeDay": 900,
+    "timeWeek": 4332,
+    "timeMonth": 2107,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2024-11-23": 64,
       "2024-11-18": 16,
@@ -753,8 +752,7 @@
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
-      "2023-11-28": 1440,
-      "2023-11-27": 1440
+      "2023-11-28": 1440
     }
   }
 ]
