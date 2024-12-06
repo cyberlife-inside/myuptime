@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1004,
-    "timeDay": 510,
-    "timeWeek": 533,
-    "timeMonth": 626,
+    "timeDay": 558,
+    "timeWeek": 546,
+    "timeMonth": 614,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2024-05-21": 52,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.18%",
-    "time": 698,
-    "timeDay": 526,
-    "timeWeek": 645,
-    "timeMonth": 644,
-    "timeYear": 648,
+    "time": 699,
+    "timeDay": 636,
+    "timeWeek": 670,
+    "timeMonth": 647,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2024-11-25": 28,
       "2024-09-21": 39,
@@ -64,12 +64,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 96,
-    "timeDay": 89,
+    "timeDay": 77,
     "timeWeek": 91,
     "timeMonth": 98,
-    "timeYear": 100,
+    "timeYear": 99,
     "dailyMinutesDown": {
-      "2024-12-05": 2,
+      "2024-12-06": 2,
+      "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
@@ -432,8 +433,7 @@
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
-      "2023-12-08": 1440,
-      "2023-12-07": 1440
+      "2023-12-08": 1440
     }
   },
   {
@@ -442,16 +442,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "up",
-    "uptime": "64.72%",
+    "uptime": "64.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "21.28%",
-    "time": 1077,
-    "timeDay": 437,
-    "timeWeek": 1709,
-    "timeMonth": 2107,
-    "timeYear": 1806,
+    "uptimeYear": "21.55%",
+    "time": 1076,
+    "timeDay": 872,
+    "timeWeek": 1720,
+    "timeMonth": 2103,
+    "timeYear": 1797,
     "dailyMinutesDown": {
       "2024-11-30": 112,
       "2024-11-29": 15,
@@ -743,8 +743,7 @@
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
-      "2023-12-08": 1440,
-      "2023-12-07": 1440
+      "2023-12-08": 1440
     }
   }
 ]
