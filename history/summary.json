@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 999,
-    "timeDay": 710,
-    "timeWeek": 583,
-    "timeMonth": 609,
+    "time": 998,
+    "timeDay": 346,
+    "timeWeek": 548,
+    "timeMonth": 601,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2024-05-21": 52
@@ -26,17 +26,16 @@
     "slug": "blog-cyberlife",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.18%",
     "time": 700,
-    "timeDay": 427,
-    "timeWeek": 524,
-    "timeMonth": 601,
+    "timeDay": 527,
+    "timeWeek": 532,
+    "timeMonth": 596,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-12-17": 13,
       "2024-11-25": 28,
       "2024-09-21": 39,
       "2024-09-09": 19,
@@ -64,12 +63,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 97,
-    "timeDay": 122,
-    "timeWeek": 111,
-    "timeMonth": 99,
+    "timeDay": 103,
+    "timeWeek": 115,
+    "timeMonth": 98,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2024-12-17": 807,
+      "2024-12-18": 2,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -432,8 +432,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
-      "2023-12-20": 1440,
-      "2023-12-19": 1440
+      "2023-12-20": 1440
     }
   },
   {
@@ -442,16 +441,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "up",
-    "uptime": "65.14%",
+    "uptime": "65.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "24.71%",
-    "time": 1409,
-    "timeDay": 750,
-    "timeWeek": 3766,
-    "timeMonth": 3009,
-    "timeYear": 2120,
+    "uptimeYear": "24.83%",
+    "time": 1405,
+    "timeDay": 738,
+    "timeWeek": 3761,
+    "timeMonth": 3049,
+    "timeYear": 2109,
     "dailyMinutesDown": {
       "2024-12-12": 79,
       "2024-11-30": 112,
@@ -732,8 +731,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
-      "2023-12-20": 1440,
-      "2023-12-19": 1440
+      "2023-12-20": 1440
     }
   }
 ]
