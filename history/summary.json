@@ -14,7 +14,7 @@
     "timeDay": 204,
     "timeWeek": 485,
     "timeMonth": 580,
-    "timeYear": 707,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2024-05-21": 52
     }
@@ -34,7 +34,7 @@
     "timeDay": 483,
     "timeWeek": 532,
     "timeMonth": 594,
-    "timeYear": 654,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2024-11-25": 28,
       "2024-09-21": 39,
@@ -67,7 +67,7 @@
     "timeMonth": 102,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2024-12-24": 2,
+      "2024-12-24": 649,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -439,18 +439,19 @@
     "url": "https://ctrpro.co",
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
-    "status": "up",
-    "uptime": "65.36%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "65.37%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "26.47%",
-    "time": 1414,
+    "uptimeYear": "26.59%",
+    "time": 1420,
     "timeDay": 826,
     "timeWeek": 728,
     "timeMonth": 2191,
     "timeYear": 1995,
     "dailyMinutesDown": {
+      "2024-12-24": 0,
       "2024-12-12": 79,
       "2024-11-30": 112,
       "2024-11-29": 15,
