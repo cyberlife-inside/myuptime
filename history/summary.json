@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 812,
-    "timeDay": 488,
-    "timeWeek": 510,
-    "timeMonth": 591,
-    "timeYear": 665,
+    "time": 810,
+    "timeDay": 434,
+    "timeWeek": 501,
+    "timeMonth": 582,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2024-05-21": 52
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
-    "time": 704,
-    "timeDay": 729,
-    "timeWeek": 751,
-    "timeMonth": 648,
-    "timeYear": 661,
+    "time": 703,
+    "timeDay": 344,
+    "timeWeek": 682,
+    "timeMonth": 628,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2024-11-25": 28,
       "2024-09-21": 39,
@@ -55,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
     "status": "down",
-    "uptime": "3.64%",
+    "uptime": "3.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 97,
-    "timeDay": 135,
-    "timeWeek": 98,
+    "timeDay": 66,
+    "timeWeek": 92,
     "timeMonth": 101,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-01-03": 2,
+      "2025-01-04": 2,
+      "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -429,8 +430,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
@@ -439,16 +439,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "up",
-    "uptime": "65.68%",
+    "uptime": "65.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "29.20%",
-    "time": 1436,
-    "timeDay": 865,
-    "timeWeek": 729,
-    "timeMonth": 1926,
-    "timeYear": 1852,
+    "uptimeYear": "29.48%",
+    "time": 1433,
+    "timeDay": 830,
+    "timeWeek": 761,
+    "timeMonth": 1890,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2024-12-26": 33,
       "2024-12-12": 79,
@@ -713,8 +713,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   }
 ]
