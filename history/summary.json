@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 809,
-    "timeDay": 937,
-    "timeWeek": 587,
-    "timeMonth": 606,
+    "timeDay": 813,
+    "timeWeek": 632,
+    "timeMonth": 605,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2024-05-21": 52
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
     "time": 703,
-    "timeDay": 691,
-    "timeWeek": 726,
-    "timeMonth": 644,
-    "timeYear": 662,
+    "timeDay": 576,
+    "timeWeek": 718,
+    "timeMonth": 636,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2024-11-25": 28,
       "2024-09-21": 39,
@@ -55,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
     "status": "down",
-    "uptime": "3.63%",
+    "uptime": "3.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 97,
-    "timeDay": 77,
+    "timeDay": 99,
     "timeWeek": 100,
     "timeMonth": 102,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-01-06": 2,
+      "2025-01-07": 3,
+      "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
@@ -429,8 +430,7 @@
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
-      "2024-01-09": 1440,
-      "2024-01-08": 1440
+      "2024-01-09": 1440
     }
   },
   {
@@ -439,16 +439,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "up",
-    "uptime": "65.77%",
+    "uptime": "65.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "30.03%",
-    "time": 1431,
-    "timeDay": 356,
-    "timeWeek": 684,
-    "timeMonth": 1885,
-    "timeYear": 1828,
+    "uptimeYear": "30.30%",
+    "time": 1434,
+    "timeDay": 725,
+    "timeWeek": 722,
+    "timeMonth": 1805,
+    "timeYear": 1821,
     "dailyMinutesDown": {
       "2024-12-26": 33,
       "2024-12-12": 79,
@@ -710,8 +710,7 @@
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
-      "2024-01-09": 1440,
-      "2024-01-08": 1440
+      "2024-01-09": 1440
     }
   }
 ]
