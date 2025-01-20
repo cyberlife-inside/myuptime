@@ -14,7 +14,7 @@
     "timeDay": 1100,
     "timeWeek": 685,
     "timeMonth": 609,
-    "timeYear": 667,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2024-05-21": 52
     }
@@ -34,7 +34,7 @@
     "timeDay": 671,
     "timeWeek": 630,
     "timeMonth": 682,
-    "timeYear": 651,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2024-11-25": 28,
       "2024-09-21": 39,
@@ -53,15 +53,15 @@
     "url": "https://neural-reader.com",
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
-    "status": "up",
+    "status": "down",
     "uptime": "3.59%",
-    "uptimeDay": "2.75%",
-    "uptimeWeek": "1.45%",
+    "uptimeDay": "2.80%",
+    "uptimeWeek": "1.46%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 101,
-    "timeDay": 175,
-    "timeWeek": 146,
+    "timeDay": 171,
+    "timeWeek": 145,
     "timeMonth": 129,
     "timeYear": 106,
     "dailyMinutesDown": {
