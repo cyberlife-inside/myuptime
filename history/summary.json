@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 801,
-    "timeDay": 386,
-    "timeWeek": 647,
-    "timeMonth": 597,
+    "time": 800,
+    "timeDay": 558,
+    "timeWeek": 627,
+    "timeMonth": 575,
     "timeYear": 666,
     "dailyMinutesDown": {
       "2024-05-21": 52
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
-    "time": 705,
-    "timeDay": 676,
-    "timeWeek": 663,
-    "timeMonth": 690,
+    "time": 704,
+    "timeDay": 404,
+    "timeWeek": 617,
+    "timeMonth": 676,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2024-11-25": 28,
@@ -54,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
     "status": "down",
-    "uptime": "3.59%",
+    "uptime": "3.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.81%",
+    "uptimeWeek": "2.54%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 102,
-    "timeDay": 107,
-    "timeWeek": 133,
+    "timeDay": 139,
+    "timeWeek": 134,
     "timeMonth": 125,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-01-24": 269,
+      "2025-01-25": 2,
+      "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1394,
       "2025-01-21": 1349,
@@ -428,8 +429,7 @@
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
-      "2024-01-27": 1440,
-      "2024-01-26": 1440
+      "2024-01-27": 1440
     }
   },
   {
@@ -438,18 +438,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "up",
-    "uptime": "71.90%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "35.00%",
-    "time": 1428,
-    "timeDay": 778,
-    "timeWeek": 626,
-    "timeMonth": 714,
-    "timeYear": 1684,
+    "uptime": "66.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "35.23%",
+    "time": 1431,
+    "timeDay": 836,
+    "timeWeek": 669,
+    "timeMonth": 709,
+    "timeYear": 1679,
     "dailyMinutesDown": {
-      "2025-01-24": 10,
       "2025-01-13": 29,
       "2024-12-26": 33,
       "2024-12-12": 79,
@@ -693,8 +692,7 @@
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
-      "2024-01-27": 1440,
-      "2024-01-26": 1440
+      "2024-01-27": 1440
     }
   }
 ]
