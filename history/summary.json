@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 792,
-    "timeDay": 513,
-    "timeWeek": 494,
-    "timeMonth": 566,
+    "timeDay": 560,
+    "timeWeek": 512,
+    "timeMonth": 571,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2024-05-21": 52
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
     "time": 705,
-    "timeDay": 588,
-    "timeWeek": 499,
-    "timeMonth": 626,
+    "timeDay": 656,
+    "timeWeek": 543,
+    "timeMonth": 631,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2024-11-25": 28,
@@ -65,7 +65,8 @@
     "timeMonth": 130,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-01-29": 1143,
+      "2025-01-30": 2,
+      "2025-01-29": 1319,
       "2025-01-28": 1415,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -428,8 +429,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -438,16 +438,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "up",
-    "uptime": "66.85%",
+    "uptime": "66.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "36.56%",
-    "time": 1476,
-    "timeDay": 1259,
-    "timeWeek": 903,
-    "timeMonth": 762,
-    "timeYear": 1621,
+    "uptimeYear": "36.60%",
+    "time": 1473,
+    "timeDay": 700,
+    "timeWeek": 902,
+    "timeMonth": 763,
+    "timeYear": 1617,
     "dailyMinutesDown": {
       "2025-01-13": 29,
       "2024-12-26": 33,
@@ -687,8 +687,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   }
 ]
