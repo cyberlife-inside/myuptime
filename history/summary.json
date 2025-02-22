@@ -53,15 +53,15 @@
     "url": "https://neural-reader.com",
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "19.04%",
-    "uptimeWeek": "2.79%",
-    "uptimeMonth": "41.50%",
-    "uptimeYear": "95.12%",
+    "uptimeDay": "19.43%",
+    "uptimeWeek": "2.85%",
+    "uptimeMonth": "41.57%",
+    "uptimeYear": "95.13%",
     "time": 123,
     "timeDay": 135,
-    "timeWeek": 133,
+    "timeWeek": 132,
     "timeMonth": 145,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
       "2025-02-06": 1111,
       "2025-02-05": 1202,
       "2025-02-04": 1211,
-      "2025-02-03": 760
+      "2025-02-03": 729
     }
   },
   {
@@ -96,7 +96,7 @@
     "uptime": "70.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.08%",
+    "uptimeMonth": "37.07%",
     "uptimeYear": "37.71%",
     "time": 1545,
     "timeDay": 0,
@@ -104,7 +104,7 @@
     "timeMonth": 827,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-02-22": 293,
+      "2025-02-22": 298,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
