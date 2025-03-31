@@ -13,7 +13,7 @@
     "time": 718,
     "timeDay": 417,
     "timeWeek": 585,
-    "timeMonth": 589,
+    "timeMonth": 593,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2024-05-21": 52
@@ -33,7 +33,7 @@
     "time": 650,
     "timeDay": 424,
     "timeWeek": 663,
-    "timeMonth": 696,
+    "timeMonth": 694,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2024-11-25": 28,
@@ -55,17 +55,18 @@
     "slug": "neural-reader-saas",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "69.17%",
+    "uptimeDay": "68.80%",
     "uptimeWeek": "41.14%",
-    "uptimeMonth": "78.13%",
+    "uptimeMonth": "78.12%",
     "uptimeYear": "98.18%",
     "time": 145,
     "timeDay": 150,
     "timeWeek": 164,
-    "timeMonth": 158,
+    "timeMonth": 157,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-03-30": 445,
+      "2025-03-31": 2,
+      "2025-03-30": 448,
       "2025-03-29": 563,
       "2025-03-28": 497,
       "2025-03-27": 457,
@@ -87,7 +88,7 @@
     "uptime": "68.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "37.98%",
     "time": 1571,
     "timeDay": 0,
@@ -95,7 +96,8 @@
     "timeMonth": 0,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-03-30": 1437,
+      "2025-03-31": 2,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -329,8 +331,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   }
 ]
