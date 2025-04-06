@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 683,
-    "timeDay": 450,
-    "timeWeek": 502,
-    "timeMonth": 562,
+    "time": 682,
+    "timeDay": 551,
+    "timeWeek": 481,
+    "timeMonth": 566,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2024-05-21": 52
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyberlife.blog.ico",
     "slug": "blog-cyberlife",
     "status": "down",
-    "uptime": "99.40%",
+    "uptime": "99.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.01%",
-    "uptimeMonth": "88.04%",
-    "uptimeYear": "98.19%",
+    "uptimeWeek": "46.85%",
+    "uptimeMonth": "87.77%",
+    "uptimeYear": "98.17%",
     "time": 650,
     "timeDay": 0,
-    "timeWeek": 612,
+    "timeWeek": 623,
     "timeMonth": 708,
-    "timeYear": 672,
+    "timeYear": 673,
     "dailyMinutesDown": {
-      "2025-04-05": 1325,
+      "2025-04-06": 2,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1036,
@@ -58,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "87.00%",
-    "uptimeMonth": "92.41%",
-    "uptimeYear": "99.37%",
+    "uptime": "99.80%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "87.33%",
+    "uptimeMonth": "92.11%",
+    "uptimeYear": "99.34%",
     "time": 146,
-    "timeDay": 145,
+    "timeDay": 144,
     "timeWeek": 156,
-    "timeMonth": 160,
+    "timeMonth": 161,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-04-05": 50,
+      "2025-04-05": 37,
       "2025-04-03": 15,
       "2025-04-02": 24,
       "2025-04-01": 255,
@@ -78,7 +79,7 @@
       "2025-03-29": 563,
       "2025-03-28": 497,
       "2025-03-27": 457,
-      "2025-03-26": 516
+      "2025-03-26": 658
     }
   },
   {
@@ -87,7 +88,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "down",
-    "uptime": "68.33%",
+    "uptime": "68.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -98,7 +99,8 @@
     "timeMonth": 0,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-04-05": 1325,
+      "2025-04-06": 2,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -332,8 +334,7 @@
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
-      "2024-04-07": 1440,
-      "2024-04-06": 1440
+      "2024-04-07": 1440
     }
   }
 ]
