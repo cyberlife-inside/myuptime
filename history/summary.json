@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 682,
-    "timeDay": 551,
-    "timeWeek": 481,
-    "timeMonth": 566,
-    "timeYear": 697,
+    "timeDay": 478,
+    "timeWeek": 489,
+    "timeMonth": 570,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2024-05-21": 52
     }
@@ -27,16 +27,17 @@
     "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "33.31%",
-    "uptimeMonth": "84.65%",
-    "uptimeYear": "97.91%",
-    "time": 650,
+    "uptimeWeek": "32.56%",
+    "uptimeMonth": "84.48%",
+    "uptimeYear": "97.90%",
+    "time": 651,
     "timeDay": 0,
-    "timeWeek": 623,
-    "timeMonth": 708,
-    "timeYear": 673,
+    "timeWeek": 723,
+    "timeMonth": 704,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-04-06": 1367,
+      "2025-04-07": 2,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -60,17 +61,17 @@
     "slug": "neural-reader-saas",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "91.21%",
-    "uptimeMonth": "92.62%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "92.38%",
+    "uptimeYear": "99.37%",
     "time": 147,
-    "timeDay": 152,
-    "timeWeek": 157,
-    "timeMonth": 160,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 161,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-04-06": 29,
+      "2025-04-06": 23,
       "2025-04-05": 37,
       "2025-04-03": 15,
       "2025-04-02": 24,
@@ -80,7 +81,7 @@
       "2025-03-29": 563,
       "2025-03-28": 497,
       "2025-03-27": 457,
-      "2025-03-26": 407
+      "2025-03-26": 516
     }
   },
   {
@@ -89,7 +90,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "down",
-    "uptime": "68.27%",
+    "uptime": "68.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -100,7 +101,8 @@
     "timeMonth": 0,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-04-06": 1367,
+      "2025-04-07": 2,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -334,8 +336,7 @@
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
-      "2024-04-08": 1440,
-      "2024-04-07": 1440
+      "2024-04-08": 1440
     }
   }
 ]
