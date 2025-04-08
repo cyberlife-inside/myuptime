@@ -25,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyberlife.blog.ico",
     "slug": "blog-cyberlife",
     "status": "down",
-    "uptime": "99.17%",
+    "uptime": "99.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.84%",
-    "uptimeMonth": "78.79%",
+    "uptimeWeek": "7.60%",
+    "uptimeMonth": "78.74%",
     "uptimeYear": "97.42%",
     "time": 652,
     "timeDay": 0,
@@ -36,7 +36,7 @@
     "timeMonth": 709,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-04-08": 1054,
+      "2025-04-08": 1078,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -60,15 +60,15 @@
     "url": "https://neural-reader.com",
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "93.19%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "93.24%",
+    "uptimeYear": "99.44%",
     "time": 146,
-    "timeDay": 158,
-    "timeWeek": 159,
+    "timeDay": 161,
+    "timeWeek": 160,
     "timeMonth": 157,
     "timeYear": 149,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
       "2025-03-29": 563,
       "2025-03-28": 497,
       "2025-03-27": 457,
-      "2025-03-26": 52
+      "2025-03-26": 29
     }
   },
   {
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-04-08": 1054,
+      "2025-04-08": 1078,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
