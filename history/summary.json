@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 682,
-    "timeDay": 567,
-    "timeWeek": 626,
-    "timeMonth": 568,
-    "timeYear": 694,
+    "timeDay": 415,
+    "timeWeek": 482,
+    "timeMonth": 558,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2024-05-21": 52
     }
@@ -28,15 +28,16 @@
     "uptime": "98.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.04%",
-    "uptimeYear": "95.44%",
-    "time": 653,
+    "uptimeMonth": "54.90%",
+    "uptimeYear": "95.43%",
+    "time": 654,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 697,
+    "timeMonth": 687,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2025-04-15": 1377,
+      "2025-04-16": 2,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -69,17 +70,16 @@
     "slug": "neural-reader-saas",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "54.73%",
-    "uptimeMonth": "83.43%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "54.84%",
+    "uptimeMonth": "83.36%",
+    "uptimeYear": "98.61%",
     "time": 147,
-    "timeDay": 322,
-    "timeWeek": 190,
+    "timeDay": 320,
+    "timeWeek": 192,
     "timeMonth": 162,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-04-15": 11,
       "2025-04-14": 1178,
       "2025-04-13": 1440,
       "2025-04-12": 1434,
@@ -97,7 +97,7 @@
       "2025-03-30": 448,
       "2025-03-29": 563,
       "2025-03-28": 497,
-      "2025-03-27": 222
+      "2025-03-27": 261
     }
   },
   {
@@ -117,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-04-15": 1377,
+      "2025-04-16": 3,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -351,8 +352,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   }
 ]
