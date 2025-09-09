@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 616,
-    "timeDay": 316,
+    "timeDay": 300,
     "timeWeek": 339,
-    "timeMonth": 345,
-    "timeYear": 592,
+    "timeMonth": 341,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2025-05-01": 25,
       "2025-04-27": 25
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyberlife.blog.ico",
     "slug": "blog-cyberlife",
     "status": "down",
-    "uptime": "87.98%",
+    "uptime": "87.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.50%",
+    "uptimeYear": "56.22%",
     "time": 654,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2025-09-08": 2,
+      "2025-09-09": 2,
+      "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
@@ -198,8 +199,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1036,
       "2024-11-25": 28,
-      "2024-09-21": 39,
-      "2024-09-09": 19
+      "2024-09-21": 39
     }
   },
   {
@@ -210,13 +210,13 @@
     "status": "up",
     "uptime": "95.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "48.60%",
+    "uptimeWeek": "62.89%",
     "uptimeMonth": "31.27%",
     "uptimeYear": "82.75%",
     "time": 161,
-    "timeDay": 574,
-    "timeWeek": 333,
-    "timeMonth": 570,
+    "timeDay": 382,
+    "timeWeek": 363,
+    "timeMonth": 572,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2025-09-04": 863,
@@ -307,7 +307,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "down",
-    "uptime": "60.31%",
+    "uptime": "60.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -318,7 +318,8 @@
     "timeMonth": 0,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-09-08": 2,
+      "2025-09-09": 2,
+      "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
@@ -552,8 +553,7 @@
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
-      "2024-09-10": 1440,
-      "2024-09-09": 1440
+      "2024-09-10": 1440
     }
   }
 ]
