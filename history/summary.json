@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 451,
-    "timeDay": 181,
-    "timeWeek": 299,
-    "timeMonth": 328,
+    "time": 450,
+    "timeDay": 168,
+    "timeWeek": 297,
+    "timeMonth": 311,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2026-03-05": 16,
@@ -29,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyberlife.blog.ico",
     "slug": "blog-cyberlife",
     "status": "up",
-    "uptime": "81.25%",
+    "uptime": "81.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "21.83%",
-    "time": 469,
-    "timeDay": 70,
-    "timeWeek": 177,
-    "timeMonth": 192,
-    "timeYear": 254,
+    "uptimeYear": "21.86%",
+    "time": 468,
+    "timeDay": 94,
+    "timeWeek": 174,
+    "timeMonth": 190,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2026-04-04": 44,
       "2026-04-02": 16,
@@ -342,8 +342,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -354,14 +353,14 @@
     "status": "up",
     "uptime": "95.74%",
     "uptimeDay": "72.88%",
-    "uptimeWeek": "75.71%",
+    "uptimeWeek": "75.87%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "81.81%",
-    "time": 341,
-    "timeDay": 1037,
-    "timeWeek": 632,
-    "timeMonth": 738,
-    "timeYear": 370,
+    "time": 343,
+    "timeDay": 1052,
+    "timeWeek": 642,
+    "timeMonth": 744,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2026-04-05": 389,
       "2026-04-04": 76,
@@ -456,13 +455,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 751,
+    "time": 749,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-05": 1303,
+      "2026-04-06": 7,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -825,8 +825,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   }
 ]
