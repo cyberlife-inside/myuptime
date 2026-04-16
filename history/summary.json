@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 446,
-    "timeDay": 333,
-    "timeWeek": 258,
-    "timeMonth": 315,
+    "timeDay": 649,
+    "timeWeek": 310,
+    "timeMonth": 332,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2026-03-05": 16,
@@ -33,12 +33,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "24.53%",
-    "time": 454,
-    "timeDay": 232,
-    "timeWeek": 178,
-    "timeMonth": 189,
-    "timeYear": 249,
+    "uptimeYear": "24.60%",
+    "time": 452,
+    "timeDay": 82,
+    "timeWeek": 173,
+    "timeMonth": 188,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2026-04-10": 35,
       "2026-04-04": 44,
@@ -333,8 +333,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -348,11 +347,11 @@
     "uptimeWeek": "87.57%",
     "uptimeMonth": "91.00%",
     "uptimeYear": "99.25%",
-    "time": 404,
-    "timeDay": 548,
-    "timeWeek": 529,
-    "timeMonth": 711,
-    "timeYear": 467,
+    "time": 406,
+    "timeDay": 655,
+    "timeWeek": 546,
+    "timeMonth": 714,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2026-04-15": 313,
       "2026-04-14": 81,
@@ -378,7 +377,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "down",
-    "uptime": "51.72%",
+    "uptime": "51.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -389,7 +388,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 1122,
+      "2026-04-16": 13,
+      "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -752,8 +752,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   }
 ]
