@@ -11,17 +11,16 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 439,
-    "timeDay": 397,
-    "timeWeek": 301,
-    "timeMonth": 305,
+    "timeDay": 336,
+    "timeWeek": 246,
+    "timeMonth": 309,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2026-04-20": 19,
       "2026-03-05": 16,
       "2025-11-18": 114,
       "2025-10-20": 20,
-      "2025-05-01": 25,
-      "2025-04-27": 25
+      "2025-05-01": 25
     }
   },
   {
@@ -30,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyberlife.blog.ico",
     "slug": "blog-cyberlife",
     "status": "down",
-    "uptime": "81.25%",
+    "uptime": "81.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "45.48%",
-    "uptimeMonth": "87.08%",
+    "uptimeWeek": "31.19%",
+    "uptimeMonth": "83.86%",
     "uptimeYear": "26.29%",
-    "time": 441,
+    "time": 440,
     "timeDay": 0,
-    "timeWeek": 176,
-    "timeMonth": 188,
+    "timeWeek": 129,
+    "timeMonth": 192,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-04-26": 11,
+      "2026-04-27": 12,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -328,8 +328,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -339,14 +338,14 @@
     "slug": "neural-reader-saas",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "91.27%",
     "uptimeYear": "99.27%",
-    "time": 425,
-    "timeDay": 1181,
-    "timeWeek": 1218,
-    "timeMonth": 688,
+    "time": 426,
+    "timeDay": 322,
+    "timeWeek": 1224,
+    "timeMonth": 683,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2026-04-25": 35,
@@ -377,18 +376,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "down",
-    "uptime": "51.38%",
+    "uptime": "51.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 813,
+    "time": 826,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 11,
+      "2026-04-27": 12,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -751,8 +751,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   }
 ]
