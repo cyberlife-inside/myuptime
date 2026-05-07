@@ -30,8 +30,8 @@
     "slug": "blog-cyberlife",
     "status": "down",
     "uptime": "81.13%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "74.36%",
     "uptimeYear": "28.22%",
     "time": 422,
@@ -40,7 +40,7 @@
     "timeMonth": 170,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2026-05-07": 0,
+      "2026-05-07": 4,
       "2026-04-29": 1390,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-07": 12,
+      "2026-05-07": 16,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
