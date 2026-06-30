@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.87%",
-    "time": 378,
-    "timeDay": 624,
-    "timeWeek": 467,
-    "timeMonth": 420,
+    "time": 377,
+    "timeDay": 478,
+    "timeWeek": 459,
+    "timeMonth": 424,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-10-20": 20,
@@ -31,15 +31,15 @@
     "url": "https://cyberlife.blog",
     "icon": "https://icons.duckduckgo.com/ip3/cyberlife.blog.ico",
     "slug": "blog-cyberlife",
-    "status": "up",
+    "status": "down",
     "uptime": "81.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.23%",
-    "time": 318,
-    "timeDay": 75,
-    "timeWeek": 167,
+    "uptimeYear": "43.24%",
+    "time": 312,
+    "timeDay": 134,
+    "timeWeek": 154,
     "timeMonth": 166,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -273,7 +273,8 @@
       "2026-05-07": 57,
       "2026-05-20": 40,
       "2026-05-23": 76,
-      "2026-05-26": 24
+      "2026-05-26": 24,
+      "2026-06-30": 0
     }
   },
   {
@@ -288,9 +289,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.25%",
     "time": 462,
-    "timeDay": 164,
-    "timeWeek": 189,
-    "timeMonth": 294,
+    "timeDay": 147,
+    "timeWeek": 190,
+    "timeMonth": 282,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2026-04-02": 241,
@@ -338,7 +339,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1361,
+      "2026-06-30": 1418,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
