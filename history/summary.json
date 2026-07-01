@@ -13,7 +13,7 @@
     "time": 377,
     "timeDay": 478,
     "timeWeek": 459,
-    "timeMonth": 424,
+    "timeMonth": 414,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-10-20": 20,
@@ -31,17 +31,17 @@
     "url": "https://cyberlife.blog",
     "icon": "https://icons.duckduckgo.com/ip3/cyberlife.blog.ico",
     "slug": "blog-cyberlife",
-    "status": "down",
+    "status": "up",
     "uptime": "81.75%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "43.24%",
-    "time": 312,
-    "timeDay": 134,
-    "timeWeek": 154,
-    "timeMonth": 166,
-    "timeYear": 217,
+    "time": 311,
+    "timeDay": 110,
+    "timeWeek": 145,
+    "timeMonth": 167,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2026-01-15": 1259,
       "2026-01-14": 1440,
@@ -241,7 +241,6 @@
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
-      "2025-07-01": 1440,
       "2026-01-21": 16,
       "2026-02-04": 31,
       "2026-02-09": 24,
@@ -274,7 +273,8 @@
       "2026-05-20": 40,
       "2026-05-23": 76,
       "2026-05-26": 24,
-      "2026-06-30": 0
+      "2026-07-01": 2,
+      "2026-06-30": 22
     }
   },
   {
@@ -291,7 +291,7 @@
     "time": 462,
     "timeDay": 147,
     "timeWeek": 190,
-    "timeMonth": 282,
+    "timeMonth": 288,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2026-04-02": 241,
@@ -331,7 +331,7 @@
     "uptime": "49.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -339,7 +339,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1418,
+      "2026-07-01": 3,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -702,8 +703,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   }
 ]
