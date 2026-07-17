@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 376,
-    "timeDay": 439,
-    "timeWeek": 576,
-    "timeMonth": 517,
-    "timeYear": 349,
+    "timeDay": 462,
+    "timeWeek": 557,
+    "timeMonth": 511,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2025-10-20": 20,
       "2025-11-18": 114,
@@ -36,10 +36,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "47.59%",
-    "time": 284,
-    "timeDay": 515,
-    "timeWeek": 207,
+    "uptimeYear": "47.63%",
+    "time": 280,
+    "timeDay": 94,
+    "timeWeek": 190,
     "timeMonth": 196,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -225,7 +225,6 @@
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
-      "2025-07-17": 1440,
       "2026-01-21": 16,
       "2026-02-04": 31,
       "2026-02-09": 24,
@@ -267,19 +266,19 @@
     "url": "https://neural-reader.com",
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "90.56%",
+    "uptimeDay": "95.64%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.26%",
     "time": 470,
-    "timeDay": 403,
-    "timeWeek": 528,
-    "timeMonth": 325,
-    "timeYear": 538,
+    "timeDay": 401,
+    "timeWeek": 449,
+    "timeMonth": 326,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2026-04-02": 86,
+      "2026-04-02": 56,
       "2026-04-03": 270,
       "2026-04-04": 76,
       "2026-04-05": 389,
@@ -306,7 +305,8 @@
       "2026-06-23": 37,
       "2026-06-30": 27,
       "2026-07-15": 74,
-      "2026-07-16": 62
+      "2026-07-16": 62,
+      "2026-07-17": 0
     }
   },
   {
@@ -326,7 +326,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 1269,
+      "2026-07-17": 14,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -689,8 +690,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   }
 ]
