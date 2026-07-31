@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 374,
-    "timeDay": 838,
-    "timeWeek": 481,
+    "time": 372,
+    "timeDay": 0,
+    "timeWeek": 535,
     "timeMonth": 485,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -35,13 +35,13 @@
     "uptime": "82.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "51.46%",
-    "time": 251,
-    "timeDay": 199,
-    "timeWeek": 121,
-    "timeMonth": 185,
-    "timeYear": 213,
+    "time": 249,
+    "timeDay": 136,
+    "timeWeek": 129,
+    "timeMonth": 182,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2026-01-15": 1259,
       "2026-01-14": 1440,
@@ -211,7 +211,6 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
       "2026-01-21": 16,
       "2026-02-04": 31,
       "2026-02-09": 24,
@@ -253,17 +252,17 @@
     "url": "https://neural-reader.com",
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "81.97%",
-    "uptimeWeek": "86.79%",
-    "uptimeMonth": "94.40%",
-    "uptimeYear": "98.97%",
-    "time": 486,
-    "timeDay": 141,
-    "timeWeek": 288,
-    "timeMonth": 399,
-    "timeYear": 539,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "80.35%",
+    "uptimeWeek": "86.56%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "98.96%",
+    "time": 487,
+    "timeDay": 461,
+    "timeWeek": 343,
+    "timeMonth": 403,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2026-04-05": 15,
       "2026-04-06": 283,
@@ -301,7 +300,8 @@
       "2026-07-27": 148,
       "2026-07-28": 50,
       "2026-07-29": 162,
-      "2026-07-30": 260
+      "2026-07-30": 279,
+      "2026-07-31": 4
     }
   },
   {
@@ -313,7 +313,7 @@
     "uptime": "48.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -321,7 +321,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 1420,
+      "2026-07-31": 4,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -684,8 +685,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   }
 ]
