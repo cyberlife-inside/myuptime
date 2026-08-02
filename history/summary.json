@@ -36,7 +36,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.01%",
+    "uptimeYear": "52.03%",
     "time": 247,
     "timeDay": 334,
     "timeWeek": 199,
@@ -252,10 +252,10 @@
     "slug": "neural-reader-saas",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "82.53%",
-    "uptimeWeek": "89.33%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "98.94%",
+    "uptimeDay": "77.47%",
+    "uptimeWeek": "88.60%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "98.93%",
     "time": 490,
     "timeDay": 222,
     "timeWeek": 350,
@@ -300,7 +300,7 @@
       "2026-07-30": 279,
       "2026-07-31": 4,
       "2026-08-01": 251,
-      "2026-08-02": 0
+      "2026-08-02": 73
     }
   },
   {
@@ -320,7 +320,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 12,
+      "2026-08-02": 85,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
