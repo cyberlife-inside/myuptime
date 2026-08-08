@@ -36,7 +36,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.79%",
+    "uptimeYear": "53.84%",
     "time": 233,
     "timeDay": 89,
     "timeWeek": 190,
@@ -244,11 +244,11 @@
     "url": "https://neural-reader.com",
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "87.82%",
-    "uptimeMonth": "91.55%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "88.44%",
+    "uptimeMonth": "91.58%",
     "uptimeYear": "98.79%",
     "time": 493,
     "timeDay": 182,
@@ -297,7 +297,7 @@
       "2026-08-03": 326,
       "2026-08-04": 134,
       "2026-08-07": 62,
-      "2026-08-08": 14
+      "2026-08-08": 0
     }
   },
   {
@@ -306,7 +306,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "down",
-    "uptime": "48.14%",
+    "uptime": "48.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -317,7 +317,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 722,
+      "2026-08-08": 968,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
