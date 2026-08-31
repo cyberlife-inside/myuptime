@@ -31,16 +31,16 @@
     "url": "https://cyberlife.blog",
     "icon": "https://icons.duckduckgo.com/ip3/cyberlife.blog.ico",
     "slug": "blog-cyberlife",
-    "status": "down",
-    "uptime": "82.39%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "99.14%",
+    "status": "up",
+    "uptime": "82.38%",
+    "uptimeDay": "75.16%",
+    "uptimeWeek": "93.03%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "59.91%",
     "time": 221,
-    "timeDay": 308,
-    "timeWeek": 587,
-    "timeMonth": 281,
+    "timeDay": 248,
+    "timeWeek": 542,
+    "timeMonth": 278,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2026-01-15": 1259,
@@ -217,7 +217,7 @@
       "2026-08-23": 16,
       "2026-08-29": 196,
       "2026-08-28": 149,
-      "2026-08-31": 17
+      "2026-08-31": 358
     }
   },
   {
@@ -225,15 +225,15 @@
     "url": "https://neural-reader.com",
     "icon": "https://icons.duckduckgo.com/ip3/neural-reader.com.ico",
     "slug": "neural-reader-saas",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "84.00%",
-    "uptimeWeek": "86.28%",
-    "uptimeMonth": "90.14%",
-    "uptimeYear": "98.65%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "60.36%",
+    "uptimeWeek": "82.91%",
+    "uptimeMonth": "89.37%",
+    "uptimeYear": "98.59%",
     "time": 492,
-    "timeDay": 398,
-    "timeWeek": 291,
+    "timeDay": 372,
+    "timeWeek": 293,
     "timeMonth": 335,
     "timeYear": 519,
     "dailyMinutesDown": {
@@ -282,7 +282,7 @@
       "2026-08-26": 103,
       "2026-08-27": 928,
       "2026-08-30": 218,
-      "2026-08-31": 13
+      "2026-08-31": 353
     }
   },
   {
@@ -291,7 +291,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "down",
-    "uptime": "47.49%",
+    "uptime": "47.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -302,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 116,
+      "2026-08-31": 456,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
