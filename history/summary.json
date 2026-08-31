@@ -33,9 +33,9 @@
     "slug": "blog-cyberlife",
     "status": "down",
     "uptime": "82.39%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "96.52%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "59.91%",
     "time": 221,
     "timeDay": 308,
@@ -217,7 +217,7 @@
       "2026-08-23": 16,
       "2026-08-29": 196,
       "2026-08-28": 149,
-      "2026-08-31": 5
+      "2026-08-31": 17
     }
   },
   {
@@ -227,9 +227,9 @@
     "slug": "neural-reader-saas",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "84.83%",
-    "uptimeWeek": "86.40%",
-    "uptimeMonth": "90.17%",
+    "uptimeDay": "84.00%",
+    "uptimeWeek": "86.28%",
+    "uptimeMonth": "90.14%",
     "uptimeYear": "98.65%",
     "time": 492,
     "timeDay": 398,
@@ -282,7 +282,7 @@
       "2026-08-26": 103,
       "2026-08-27": 928,
       "2026-08-30": 218,
-      "2026-08-31": 0
+      "2026-08-31": 13
     }
   },
   {
@@ -302,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 103,
+      "2026-08-31": 116,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
