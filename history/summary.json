@@ -4,16 +4,16 @@
     "url": "https://www.wiscale.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.wiscale.fr.ico",
     "slug": "wiscale-france",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 382,
-    "timeDay": 240,
-    "timeWeek": 696,
-    "timeMonth": 579,
+    "timeDay": 218,
+    "timeWeek": 634,
+    "timeMonth": 567,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2025-10-20": 20,
@@ -23,7 +23,8 @@
       "2026-04-30": 37,
       "2026-05-10": 101,
       "2026-06-15": 4,
-      "2026-06-14": 359
+      "2026-06-14": 359,
+      "2026-10-17": 0
     }
   },
   {
@@ -36,7 +37,7 @@
     "uptimeDay": "87.82%",
     "uptimeWeek": "98.26%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "72.86%",
+    "uptimeYear": "72.91%",
     "time": 218,
     "timeDay": 194,
     "timeWeek": 183,
@@ -260,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 1028,
+      "2026-10-17": 1290,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
