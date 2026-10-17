@@ -31,12 +31,12 @@
     "url": "https://cyberlife.blog",
     "icon": "https://icons.duckduckgo.com/ip3/cyberlife.blog.ico",
     "slug": "blog-cyberlife",
-    "status": "up",
+    "status": "down",
     "uptime": "82.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.77%",
+    "uptimeYear": "72.86%",
     "time": 218,
     "timeDay": 266,
     "timeWeek": 191,
@@ -170,7 +170,8 @@
       "2026-08-23": 16,
       "2026-08-29": 196,
       "2026-08-28": 149,
-      "2026-08-31": 358
+      "2026-08-31": 358,
+      "2026-10-17": 0
     }
   },
   {
@@ -248,7 +249,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctrpro.co.ico",
     "slug": "ctr-pro",
     "status": "down",
-    "uptime": "46.19%",
+    "uptime": "46.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -259,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 411,
+      "2026-10-17": 853,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
